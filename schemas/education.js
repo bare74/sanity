@@ -4,7 +4,7 @@ export default {
   title: 'Utdanning',
   fields: [
     {
-      name: 'skole',
+      name: 'school',
       type: 'string',
       title: 'Skole',
     },
